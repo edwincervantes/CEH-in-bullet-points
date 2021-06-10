@@ -55,6 +55,7 @@
   - Provides protection against replay attacks
 - **Encapsulating Security Payloads (ESP)**
   - 📝 In addition to AH it provides confidentiality through encryption
+  - Use to assure security and confidentiality of data within the same LAN
   - Unlike AH, it does not provide integrity and authentication for entire IP packet
     - The outer header (including any outer IPv4 options or IPv6 extension headers) remains unprotected
   - Supports encryption-only and (❗ insecure) authentication-only configurations
