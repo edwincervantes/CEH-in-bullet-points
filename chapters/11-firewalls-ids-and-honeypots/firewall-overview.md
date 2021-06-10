@@ -11,6 +11,7 @@
 - Also known as ***multi-homed hosts***, ***multihomed hosts***, ***multi homed hosts***, ***multi homed firewalls*** or ***multihomed firewalls***.
 - 📝 A host / firewall that has more than single network interface (NIC)
 - Each interface are connected to separate network segments
+- Requires at least 3 network connections
 
 ### Dual-homed firewalls
 
